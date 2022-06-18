@@ -1,0 +1,37 @@
+id: ID4417C34
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:07:45.992293'
+last_modified: '2022-06-18T20:07:45.992306'
+parser: null
+source_metadata:
+  title: The Record of teachings received by Phags pa blo gros rgyal mtshan (1235–1280)
+  author: འཕགས་པ་བློ་གྲོས་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2020-06-19);
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།; This text was published by the Paltsek Research
+    Institute. (src)
+  - Text input:དཔལ་བརྩེགས་བོད་ཡིག་དཔེ་རྙིང་ཞིབ་འཇུག་ཁང་། (Lhasa) (pts)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4564
+  bases:
+    adec:
+      title: The Record of teachings received by Phags pa blo gros rgyal mtshan (1235–1280)
+      order: 1
+      base_file: adec.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
